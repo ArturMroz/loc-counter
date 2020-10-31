@@ -90,7 +90,7 @@ def filetype(name):
                      "p" : "Perl",
                      "py" : "Python",
                      "pyl" : "Python",
-                     "rb" : "ruby",
+                     "rb" : "Ruby",
                      "el" : "Emacs Lisp",
                      "elc" : "Emacs Lisp",
                      "scala" : "Scala",
@@ -147,7 +147,8 @@ def filetype(name):
                      "aspx" : "ASP.NET page",
                      "ascx" : "ASP.NET user control",
                      "cshtml" : "MVC View Razor",
-                     "ts": "TypeScript"
+                     "ts": "TypeScript",
+                     "elm": "Elm",
                      }
   
   
