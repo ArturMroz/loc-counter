@@ -90,6 +90,7 @@ def filetype(name):
                      "p" : "Perl",
                      "py" : "Python",
                      "pyl" : "Python",
+                     "rb" : "ruby",
                      "el" : "Emacs Lisp",
                      "elc" : "Emacs Lisp",
                      "scala" : "Scala",
@@ -131,6 +132,8 @@ def filetype(name):
                      "cs" : "C#",
                      "rc" : "VS Resource",
                      "xaml": "XAML file",
+                     "fs" : "F#",
+                     "fsx" : "F#",
 #                    ### Powershell ###
                      "ps1" : "Powershell",
                      ### Web ###
